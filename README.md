@@ -1,0 +1,2 @@
+# LOL games : 4 years of esport and Prediction from 30min (84%Acc, RNN)
+ Este projeto realiza uma análise detalhada das partidas competitivas de League of Legends entre os anos de 2015 e 2017. Os dados incluem partidas das ligas NALCS, EULCS, LCK, LMS, e CBLoL, bem como dos torneios World Championship e Mid-Season Invitational. A análise se concentra em diversos aspectos das partidas, desde estatísticas gerais até a criação de um modelo preditivo para determinar o vencedor de uma partida com base nos dados disponíveis até os 30 minutos de jogo.
