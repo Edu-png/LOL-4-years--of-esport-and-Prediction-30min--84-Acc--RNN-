@@ -1,5 +1,7 @@
 # LOL games : 4 years of esport and Prediction from 30min (84%Acc, RNN) 🧙‍♂️🧙‍♂️
 
+![CAPAS - PROJETOS (1)](https://github.com/user-attachments/assets/952d9056-b408-4339-8cc3-509414f965bd)
+
 ## Sumário:
 - [Resumo](#resumo)
 - [Introdução](#introdução)
