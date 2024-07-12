@@ -1,4 +1,4 @@
-# LOL games : 4 years of esport and Prediction from 30min (84%Acc, RNN)
+# LOL games : 4 years of esport and Prediction from 30min (84%Acc, RNN) 🧙‍♂️🧙‍♂️
 
 ## Sumário:
 - [Resumo](#resumo)
