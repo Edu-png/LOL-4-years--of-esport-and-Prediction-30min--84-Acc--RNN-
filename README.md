@@ -17,7 +17,41 @@
 
 ![CAPAS - PROJETOS (1)](https://github.com/user-attachments/assets/952d9056-b408-4339-8cc3-509414f965bd)
 
-## Sumário:
+## 📋 Sumário
+
+1. [📜 Resumo do Projeto](#-resumo-do-projeto)
+2. [🗂️ Estrutura dos Dados](#️-estrutura-dos-dados)
+3. [🎯 Objetivos Principais](#-objetivos-principais)
+4. [🛠️ Técnicas e Ferramentas](#️-técnicas-e-ferramentas)
+5. [🔗 Origem dos Dados](#-origem-dos-dados)
+6. [🖥️ Introdução ao Projeto](#-introdução-ao-projeto)
+7. [🛠️ Pipeline do Projeto](#-pipeline-do-projeto)
+   - [📋 Coleta e Exploração dos Dados](#-1-coleta-e-exploração-dos-dados)
+   - [🧹 Pré-processamento dos Dados](#-2-pré-processamento-dos-dados)
+   - [📊 Visualização de Dados](#-3-visualização-de-dados)
+   - [🤖 Modelagem com Machine Learning](#-4-modelagem-com-machine-learning)
+   - [🔮 Predições](#-5-predições)
+8. [🔍 Métodos Utilizados no Projeto](#-métodos-utilizados-no-projeto)
+   - [📂 Coleta de Dados](#-coleta-de-dados)
+   - [🧹 Pré-processamento](#-pré-processamento)
+   - [📊 Visualização de Dados](#-visualização-de-dados)
+   - [🤖 Modelagem com Machine Learning](#-modelagem-com-machine-learning)
+9. [📊 Resultados e Conclusões](#-resultados-e-conclusões)
+   - [Distribuição de Partidas por Ano](#-1-distribuição-de-partidas-por-ano)
+   - [Distribuição de Partidas por Temporada](#-2-distribuição-de-partidas-por-temporada)
+   - [Duração Média das Partidas (2014–2016)](#-3-duração-média-das-partidas-2014-2016)
+   - [Duração Média por Ano](#-4-duração-média-por-ano)
+   - [Desempenho por Liga](#-5-desempenho-por-liga)
+   - [Número de Jogos por Liga por Ano](#-6-número-de-jogos-por-liga-por-ano)
+   - [Taxas de Vitória e Derrota - Time Azul](#-7-taxas-de-vitória-e-derrota---time-azul)
+   - [Taxas de Vitória e Derrota - Time Vermelho](#-8-taxas-de-vitória-e-derrota---time-vermelho)
+   - [Duração dos Jogos por Liga](#-9-duração-dos-jogos-por-liga)
+   - [Distribuição de Partidas por Liga e Temporada](#-10-distribuição-de-partidas-por-liga-e-temporada)
+   - [Diferença de Ouro ao Longo do Tempo](#-11-diferença-de-ouro-ao-longo-do-tempo)
+   - [Conclusões Gerais](#-conclusões-gerais)
+10. [🚀 Considerações Finais](#-considerações-finais)
+11. [🙏 Agradecimentos](#-agradecimentos)
+12. [📪 Contato](#-contato)
 
 # 📜 Resumo do Projeto - League of Legends
 
