@@ -254,7 +254,9 @@ Combinando ferramentas de análise de dados e aprendizado de máquina, este proj
        - Tamanho do lote: 32.
        - Taxa de aprendizado: 0.0001.
        - Função de perda: CrossEntropyLoss.
-       - Otimizador: Adam.
+       - Otimizador: Adam e CrossEntropyLoss.
+       - 7 entradas temporais (input)
+       -  Estrutura com camada oculta de 256 neurônios.
 
 3. **Divisão de Dados:**
    - **Treinamento (60%)**: Ajuste dos pesos do modelo.
@@ -376,6 +378,12 @@ Combinando ferramentas de análise de dados e aprendizado de máquina, este proj
 
 ![11](https://github.com/user-attachments/assets/81081dbd-0073-476f-a565-9e1b0e679f95)
 
+### 12. Modelagem com RNN
+   - Entrada sequencial de características temporais.
+   - Avaliação com baseline accuracy (83.24%).
+     
+![output](https://github.com/user-attachments/assets/56789c8a-8381-467e-89ae-b3d007f29bac)
+
 ---
 
 ### Conclusões Gerais
@@ -398,6 +406,8 @@ Este estudo revelou informações valiosas sobre os dados de partidas do League 
 2. **Diferenças entre ligas:** Ligas como LCK e América do Norte se destacaram em termos de volume e duração de jogos, enquanto ligas menores apresentaram maior variabilidade em suas métricas.
 3. **Taxas de vitória por lado:** O time azul apresentou uma vantagem consistente sobre o time vermelho na maioria dos anos, destacando um possível desequilíbrio de mapa que pode influenciar estratégias competitivas.
 4. **Duração de partidas:** Observou-se que a duração média das partidas permaneceu estável ao longo dos anos, variando entre 35 e 40 minutos, com algumas variações notáveis entre as ligas.
+5. **O controle de recursos (ouro, torres, dragões) é fundamental para vitória.**
+6. **A RNN alcançou alta acurácia ao prever vencedores com base nos primeiros 30 minutos.**
 
 ### Impacto e Aplicações:
 Os resultados podem ser utilizados para:
